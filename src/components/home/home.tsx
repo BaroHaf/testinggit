@@ -9,7 +9,7 @@ export function Home() {
         </li>
         <li>
           <a href="#" className="">
-            ABOUT
+            ABOUT sssssss
           </a>
         </li>
         <li>

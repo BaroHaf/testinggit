@@ -9,7 +9,7 @@ export function Home() {
         </li>
         <li>
           <a href="#" className="">
-            ABOUT CON CACAC KI LON
+            ABOUT Co cai lon nhe con
           </a>
         </li>
         <li>

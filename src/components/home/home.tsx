@@ -9,12 +9,12 @@ export function Home() {
         </li>
         <li>
           <a href="#" className="">
-            ABOUT
+            ABOUT CON CACAC
           </a>
         </li>
         <li>
           <a href="#" className="">
-            PRODUCT
+            PRODUCT CAILON co change
           </a>
         </li>
         <li>
